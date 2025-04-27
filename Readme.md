@@ -72,3 +72,29 @@ Culminates in funding and launching Lighthouse  Boston in 2050 as a physical man
 - [AI Business Value](./aibizvalue-diagram.md)
 - [Core Human Truth](./corehumantruth-diagram.md)
 
+## About Andy Hopper
+
+**Origins:**
+Andy comes from a long line of polymath adventures, creators, and explorers.  His ancestors came to America in the 1700s.  Andrew is related to Thomas Jefferson and other founding fathers of America including the Randolph family who helped to start Virginia Tech.
+
+His mother a product of a polymath farmboy who happened to luck into a scholarship to Cornell in the 1930s and a daughter of a Gatsby era aristocrat who made millions in the Great Depression; his dad the product of Fran Hopper the first woman to break into the comic industry in the 1940s working with Marvel and her husband Dr. John Hopper, a UPenn educated physican, the son of a Dutch judge, who delivered over 3000 babies, bred horses, and sailed around the world.  
+
+Pattern matching and adventure is deeply core to Andrew's life experience and genetic origins.
+
+Andrew is the product of a highly creative, rational, analytic, and empathetic father who worked as a metallurgical engineer, and a mother who studied law and philosophy, saw the good in everyone, and recognized opportunity in all situations. A fusion between a world-class systems thinker and a mother with a heart for others that may rival Mother Teresa.
+
+**Goals:**
+Andrew has been a "seeker" his entire life, continuously searching for the enduring equation that persists as lim (n→∞) of life (career + family + ...).
+
+**Key Apprenticeship Opportunities:**
+- 2002-2005: Bootstrapped SaaS company, studied under product expert Eric Nelson, influenced by Seth Godin
+- 2006-2009: Built AI-native real estate brokerage, studied under brilliant entrepreneur Michael Bean
+- 2009-2011: Global brand building at PUMA, studied under Tony Bertone
+- 2011-2015: Studied under brilliant PR, community, and marketing expert Jack Barette
+- 2015-2017: Studied under world-renowned mindfulness and addiction expert Jud Brewser
+- 2020: Studied at Hopper under brilliant PR experts and technologists
+- 2020-2025: Worked at AWS, directly learning from over 1,000 leading-edge startups
+
+**Key Turning Point:**
+* The release of Claude summer 2024 - which enables AI to code, allowing for meta-acceleration
+
