@@ -1,0 +1,27 @@
+# AI Business Value Creation
+
+This diagram outlines our AI business value creation lifecycle and how its components interact.
+
+```mermaid
+flowchart TD
+    subgraph "AI Business Value Creation Lifecycle"
+        GB["Grumblr\n-----------------\nOpportunity Identification\nMarket signal collection\nCustomer pain point capture"]
+        
+        TF["TheFirm\n-----------------\nBusiness Analysis\nStructured evaluation\nApplies business frameworks"]
+        
+        SP["Spark\n-----------------\nIdea Incubation\nSystematic development\nEvaluation criteria application"]
+        
+        MA["Marketing AGI\n-----------------\nAutomated Marketing\nStrategy optimization\nContent generation"]
+    end
+    
+    GB -->|"Feeds opportunities to"| TF
+    TF -->|"Sends viable concepts to"| SP
+    SP -->|"Provides developed products to"| MA
+    MA -->|"Generates market insights for"| GB
+    
+    classDef business fill:#d8f3dc,stroke:#1b4332,stroke-width:2px,color:black
+    
+    class GB,TF,SP,MA business
+```
+
+[Back to README](./README.md) 

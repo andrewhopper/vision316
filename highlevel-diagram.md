@@ -1,0 +1,27 @@
+# High Level Overview
+
+This diagram shows the relationship between our three main systems:
+- AI Tooling Infrastructure
+- AI Business Value Creation
+- Transcendent Understanding
+
+```mermaid
+flowchart TD
+    Infrastructure["AI Tooling Infrastructure\n-----------------\nHivemind | dotcli | Atomic | Sarge"]
+    Business["AI Business Value Creation\n-----------------\nGrumblr | TheFirm | Spark | Marketing AGI"]
+    Transcendent["Transcendent Understanding\n-----------------\nHuman Nature | Core Truth | Personality Systems"]
+    
+    Infrastructure -->|"Enables"| Business
+    Business -->|"Informs"| Transcendent
+    Transcendent -->|"Inspires"| Infrastructure
+    
+    classDef infra fill:#d4f1f9,stroke:#05386B,stroke-width:2px,color:black
+    classDef business fill:#d8f3dc,stroke:#1b4332,stroke-width:2px,color:black
+    classDef transcend fill:#e9d8a6,stroke:#9b2226,stroke-width:2px,color:black
+    
+    class Infrastructure infra
+    class Business business
+    class Transcendent transcend
+```
+
+[Back to README](./README.md) 
