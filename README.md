@@ -2,9 +2,9 @@
 
 ```mermaid
 flowchart TD
-    Infrastructure["AI Tooling Infrastructure\n-----------------\nHivemind | dotcli | Atomic | Sarge"]
-    Business["AI Business Value Creation\n-----------------\nGrumblr | TheFirm | Spark | Marketing AGI"]
-    Transcendent["Transcendent Understanding\n-----------------\nHuman Nature | Core Truth | Personality Systems"]
+    Infrastructure["AI Tooling Infrastructure (Hivemind, dotcli, Atomic, Sarge)"]
+    Business["AI Business Value Creation (Grumblr | TheFirm | Spark | Marketing AGI)"]
+    Transcendent["Transcendent Understanding (Human Nature, Core Truth, Personality Systems)"]
     
     Infrastructure -->|"Enables"| Business
     Business -->|"Informs"| Transcendent
