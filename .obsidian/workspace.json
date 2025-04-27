@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "316, Inc.md",
+                "file": "Readme.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "316, Inc"
+              "title": "Readme.md"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "316, Inc.md",
+                "file": "Readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 316, Inc"
+              "title": "Backlinks for Readme.md"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "316, Inc.md",
+                "file": "Readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 316, Inc"
+              "title": "Outgoing links from Readme.md"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "316, Inc.md",
+                "file": "Readme.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 316, Inc"
+              "title": "Outline of Readme.md"
             }
           }
         ]
@@ -168,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f24bf2ec9376d29",
+  "active": "69a35499a30ee6c3",
   "lastOpenFiles": [
     "aibizvalue-diagram.md",
-    "316, Inc.md",
+    "Readme.md.md",
     "detailed-diagram.md",
     "highlevel-diagram.md",
     "corehumantruth-diagram.md",
