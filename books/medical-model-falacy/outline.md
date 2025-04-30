@@ -50,15 +50,31 @@ The friction of human-computer interaction
 Part II: The Soul in a System
 5. Boundaries and Psychological Safety
 
+Trauma and spiritual containment
+
+The little scared boy or girl inside: addressing core wounds
+
+Creating safe internal and external environments
+
+Faith without works is dead: why integrity matters
+
+6. Fear and Love: Competing Operating Systems
+
 Two root emotions
 
 From scarcity to abundance
+
+The monkey inside us: sizing up other males in competitive situations
+
+How women's sin screws up God's design for marriage
 
 Case studies from daily life
 
 7. Dunbar, Cities & the Loss of Community
 
 Conformists vs. Nonconformists
+
+Jailing creative leaders and warriors: imbalance in society
 
 Externalities of urban living
 
@@ -69,13 +85,17 @@ Part III: The Godonomics of Healing
 
 Provision, grace, and unexplainable outcomes
 
+Why nice guys finish last: game theory and moral choices
+
 Probabilities, not guarantees
 
-“I’ll have sex with you if you pull out”: body-truths and false expectations
+"I'll have sex with you if you pull out": body-truths and false expectations
 
 9. Stewardship Over Ownership
 
 Open-handed living
+
+How signaling works: status symbols vs. character
 
 Thin places and sacred simplicity
 
@@ -94,7 +114,7 @@ Part IV: The Prescription
 
 0→1: Being fully in
 
-The impermanence of “science” and the permanence of wisdom
+The impermanence of "science" and the permanence of wisdom
 
 Encoded truth in tradition and scripture
 
@@ -103,6 +123,8 @@ Encoded truth in tradition and scripture
 Meditation and the nervous system
 
 Attention as a spiritual act
+
+We're 95-99% monkey: limited attention and intuitive decision-making
 
 Becoming present to what is
 
@@ -117,6 +139,6 @@ Love as the ultimate medicine
 Conclusion
 The ride home: from control to surrender
 
-Why healing isn’t a solo journey
+Why healing isn't a solo journey
 
 Final thoughts on donuts, boats, and grace
