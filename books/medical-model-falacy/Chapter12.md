@@ -24,6 +24,20 @@
 - The ethical dimensions of where we place our attention
 - Practical approaches to reclaiming and directing attention
 
+## We're 95-99% monkey: limited attention and intuitive decision-making
+- The evolutionary constraints on human cognition
+- How our primate brain processes information and makes decisions
+- The mismatch between our cognitive architecture and modern information environments
+- The limits of conscious attention and processing
+- How intuition and heuristics drive most of our decisions
+- The role of unconscious processing in perception and judgment
+- Cognitive biases as evolutionary adaptations
+- The illusion of rational decision-making
+- How stimulants like nicotine affect attention and decision processes
+- Strategies for working with rather than against our evolutionary limitations
+- The spiritual challenge of transcending our primate tendencies
+- Practical approaches to better decision-making given our cognitive constraints
+
 ## Becoming present to what is
 - The healing power of acceptance and presence
 - How resistance to reality creates suffering
