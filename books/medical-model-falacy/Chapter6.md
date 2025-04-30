@@ -22,6 +22,30 @@
 - The impact of abundance thinking on health and wellbeing
 - Economic and ecological implications of scarcity vs. abundance paradigms
 
+## The monkey inside us: sizing up other males in competitive situations
+- Evolutionary psychology of male competition
+- How primate hierarchical behaviors manifest in modern contexts
+- The unconscious sizing up that occurs in male interactions
+- Status assessment and its impact on behavior and physiology
+- How competitive instincts affect decision-making
+- The relationship between testosterone and competitive behavior
+- Cultural variations in competitive expression
+- Transcending primitive competitive drives
+- Channeling competitive energy in healthy directions
+- The spiritual challenge of ego-driven competition
+
+## How women's sin screws up God's design for marriage
+- Understanding the theological concept of sin in relational contexts
+- Common patterns that undermine marital harmony
+- Control, manipulation, and power struggles in relationships
+- How fear-based behaviors disrupt intimacy
+- The relationship between childhood wounds and adult relationship patterns
+- Healing pathways for restoring relationship design
+- The complementary nature of masculine and feminine energies
+- Cultural influences on gender roles and expectations
+- Practical approaches to aligning relationships with spiritual design
+- Case studies of transformation in marriage relationships
+
 ## Case studies from daily life
 - Examining common scenarios through the lens of fear vs. love operating systems
 - Workplace dynamics: competition vs. collaboration

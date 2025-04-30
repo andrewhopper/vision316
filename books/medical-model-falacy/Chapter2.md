@@ -18,6 +18,16 @@
 - Cultural differences in understanding and treating suffering
 - Alternative frameworks for conceptualizing distress
 
+## Treating symptoms vs. addressing root causes
+- The bandaid approach to deeper wounds
+- How symptom-focused treatment perpetuates underlying issues
+- The cycle of recurring problems when root causes remain unaddressed
+- Identifying true causes vs. surface manifestations
+- The role of trauma in creating symptoms
+- Systems thinking: understanding interconnected causes
+- Case studies of transformation through root cause resolution
+- The cost-benefit analysis of symptom management vs. causal treatment
+
 ## Sleep, sex, and sabbath: forgotten prescriptions
 - The fundamental role of sleep in mental health
 - How modern lifestyles disrupt natural sleep patterns

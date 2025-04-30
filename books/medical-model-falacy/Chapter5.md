@@ -10,6 +10,18 @@
 - Cross-cultural perspectives on trauma and spiritual healing
 - The limitations of purely biological approaches to trauma
 
+## The little scared boy or girl inside: addressing core wounds
+- Understanding the inner child concept in psychological healing
+- How childhood experiences shape adult patterns
+- Recognizing the wounded inner child in adult behaviors
+- The relationship between inner child work and spiritual growth
+- Practical approaches to inner child healing
+- Reparenting the self: meeting unmet childhood needs
+- How unresolved childhood wounds manifest in relationships
+- The role of compassion and self-compassion in healing core wounds
+- Integration of fragmented aspects of self
+- Case studies of transformation through inner child work
+
 ## Creating safe internal and external environments
 - The neuroscience of safety and threat detection
 - How physical environments affect psychological states

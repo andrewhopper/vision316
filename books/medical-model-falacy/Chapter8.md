@@ -11,6 +11,19 @@
 - How rigid expectations can blind us to unexpected opportunities
 - Cultivating awareness of grace in everyday life
 
+## Why nice guys finish last: game theory and moral choices
+- Game theory and the prisoner's dilemma in human interactions
+- How cooperative strategies can be exploited in certain contexts
+- The evolutionary psychology of altruism and selfishness
+- When being "nice" becomes self-destructive
+- The difference between healthy boundaries and doormat behavior
+- Cultural narratives about niceness vs. effectiveness
+- The spiritual challenge of maintaining integrity in competitive environments
+- Strategies for ethical effectiveness without exploitation
+- The role of community standards in supporting prosocial behavior
+- Case studies of successful ethical leadership
+- Balancing assertiveness with compassion
+
 ## Probabilities, not guarantees
 - The probabilistic nature of health and healing
 - How medical thinking often oversimplifies complex systems

@@ -11,6 +11,19 @@
 - Finding balance: healthy belonging while maintaining authenticity
 - Cultural variations in attitudes toward conformity and individualism
 
+## Jailing creative leaders and warriors: imbalance in society
+- The marginalization of creative and warrior archetypes in modern society
+- How educational systems suppress creative and assertive personalities
+- The medicalization of non-conforming temperaments
+- Historical roles of creative leaders and warriors in balanced societies
+- The consequences of removing these energies from community leadership
+- How bureaucratic systems favor compliance over innovation and courage
+- The relationship between ADHD diagnosis and warrior/creative temperaments
+- The spiritual and psychological cost of suppressing natural temperaments
+- Alternative models for integrating diverse temperaments into society
+- Case studies of societies that honor vs. suppress creative and warrior energies
+- Reclaiming and channeling creative and warrior energies in healthy ways
+
 ## Externalities of urban living
 - The psychological impact of urban environments
 - Sensory overload and chronic stress in cities

@@ -11,6 +11,19 @@
 - Practical approaches to developing an open-handed relationship with possessions
 - The freedom found in stewardship rather than ownership
 
+## How signaling works: status symbols vs. character
+- The evolutionary psychology of status signaling
+- How consumer culture exploits signaling instincts
+- The difference between authentic and inauthentic signals
+- Status symbols as shortcuts for character assessment
+- The costs of status competition at individual and societal levels
+- How social media amplifies signaling behaviors
+- The relationship between signaling and identity formation
+- Character development as an alternative to status acquisition
+- Cultural variations in status symbols and their meaning
+- Practical strategies for authentic self-presentation
+- The spiritual challenge of moving beyond status-seeking
+
 ## Thin places and sacred simplicity
 - The concept of "thin places" where material and spiritual realms meet
 - How simplicity creates space for deeper experience
