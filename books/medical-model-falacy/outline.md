@@ -21,15 +21,23 @@ When treatment causes harm
 
 The limits of the pill-for-every-ill model
 
+Treating symptoms vs. addressing root causes
+
 Sleep, sex, and sabbath: forgotten prescriptions
 
 3. The False Idols of Modern Medicine
 
 Science as god
 
-Dead dinosaurs & artificial vitality
+Dead dinosaurs & artificial vitality: drowning in stuff that keeps us tethered
 
 Donuts, boats, and the modern dopamine trap
+
+The walking dead: checking ring cameras, looking for lost "stuff", popping nicotine pills
+
+Counterfeit idols: what we worship instead of truth
+
+The problems of TV: how media bypasses our thinking brain and hijacks our evolution brain
 
 4. Talking Past Each Other
 
@@ -41,14 +49,6 @@ The friction of human-computer interaction
 
 Part II: The Soul in a System
 5. Boundaries and Psychological Safety
-
-Trauma and spiritual containment
-
-Creating safe internal and external environments
-
-Faith without works is dead: why integrity matters
-
-6. Fear and Love: Competing Operating Systems
 
 Two root emotions
 

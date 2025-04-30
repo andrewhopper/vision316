@@ -35,3 +35,5 @@ trusting our intuition and instincts
 
 * counterfeit idols
 
+* add something about the insanity of pumping dead dinosuars out of the ground, burning them, making stuff, then paying to store it, then throwing it away - and how we should be open chanded stewards
+
