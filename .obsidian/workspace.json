@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e825b3d1aa6e2dad",
+        "id": "a1072419c94a8fcd",
         "type": "tabs",
         "children": [
           {
-            "id": "2f24bf2ec9376d29",
+            "id": "126050dadc1bbb63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Readme"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Readme"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Readme"
+              "title": "Outline"
             }
           }
         ]
@@ -168,11 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f24bf2ec9376d29",
+  "active": "126050dadc1bbb63",
   "lastOpenFiles": [
+    "Readme.md",
     "aibizvalue-diagram.md",
     "Readme.md.md",
-    "Readme.md",
     "detailed-diagram.md",
     "highlevel-diagram.md",
     "corehumantruth-diagram.md",
